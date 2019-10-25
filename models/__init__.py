@@ -1,0 +1,29 @@
+# baseline
+from models.multimodal_cgqn import CGQN_v1 as MultimodalCGQN_v1
+from models.multimodal_cgqn import CGQN_v2 as MultimodalCGQN_v2
+from models.multimodal_cgqn import CGQN_v3 as MultimodalCGQN_v3
+from models.multimodal_cgqn import CGQN_v4 as MultimodalCGQN_v4
+
+# PoE
+from models.poe_multimodal_cgqn import CGQN_v1 as PoEMultimodalCGQN_v1
+from models.poe_multimodal_cgqn import CGQN_v2 as PoEMultimodalCGQN_v2
+from models.poe_multimodal_cgqn import CGQN_v3 as PoEMultimodalCGQN_v3
+from models.poe_multimodal_cgqn import CGQN_v4 as PoEMultimodalCGQN_v4
+
+# APoE
+from models.amortized_poe_multimodal_cgqn import CGQN_v1 as APoEMultimodalCGQN_v1
+from models.amortized_poe_multimodal_cgqn import CGQN_v2 as APoEMultimodalCGQN_v2
+from models.amortized_poe_multimodal_cgqn import CGQN_v3 as APoEMultimodalCGQN_v3
+from models.amortized_poe_multimodal_cgqn import CGQN_v4 as APoEMultimodalCGQN_v4
+
+# ConvAPoE
+from models.conv_amortized_poe_multimodal_cgqn import CGQN_v1 as ConvAPoEMultimodalCGQN_v1
+from models.conv_amortized_poe_multimodal_cgqn import CGQN_v2 as ConvAPoEMultimodalCGQN_v2
+from models.conv_amortized_poe_multimodal_cgqn import CGQN_v3 as ConvAPoEMultimodalCGQN_v3
+from models.conv_amortized_poe_multimodal_cgqn import CGQN_v4 as ConvAPoEMultimodalCGQN_v4
+
+# CondConvAPoE
+from models.cond_conv_amortized_poe_multimodal_cgqn import CGQN_v1 as CondConvAPoEMultimodalCGQN_v1
+from models.cond_conv_amortized_poe_multimodal_cgqn import CGQN_v2 as CondConvAPoEMultimodalCGQN_v2
+from models.cond_conv_amortized_poe_multimodal_cgqn import CGQN_v3 as CondConvAPoEMultimodalCGQN_v3
+from models.cond_conv_amortized_poe_multimodal_cgqn import CGQN_v4 as CondConvAPoEMultimodalCGQN_v4

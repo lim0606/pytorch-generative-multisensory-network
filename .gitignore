@@ -1,0 +1,12 @@
+*.pyc
+*.sw*
+*.pdf
+
+data
+experiments
+*.bak
+bak*
+gqn
+cache
+tmp
+tmp*
