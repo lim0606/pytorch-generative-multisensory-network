@@ -2,9 +2,9 @@
 Pytorch implementation of Generative Multisensory Network (GMN) on our paper: 
 > Jae Hyun Lim, Pedro O. Pinheiro, Negar Rostamzadeh, Christopher Pal, Sungjin Ahn, [Neural Multisensory Scene Inference](https://arxiv.org/abs/1910.02344) (2019)
 
-<!-- ## Introduction
+## Introduction
 Please check out [our project website](https://sites.google.com/view/generative-multisensory-net)!
--->
+
 
 ## Getting Started
 
